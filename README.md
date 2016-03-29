@@ -1,12 +1,12 @@
 #Movie Trailer Website
 
 Index:
-  1)Presentation
-  2)How to run
-  3)Changes to fresh_tomatoes
+- Presentation
+- How to run
+- Changes to fresh_tomatoes.py
 
 
-#1)Presentation
+##Presentation
 
 This is my submission for the Udacity "Full Stack Web Developer" Nanodegree.
 This project is the Movie Trailer Website.
@@ -16,7 +16,7 @@ of my favourite movie.
 These informations are displayed under the poster image. Are you curious to see the trailer?
 No problem! Just click on the movie and enjoy the trailer!
 
-#2)How to run
+##How to run
 
 In order to run this Python script the user needs to have Python version 2.7.9 installed
 (not Python 3 or above, the script may not running as expected).
@@ -28,7 +28,7 @@ navigate to the folder where the files are, and execute the command
 'python entertainment_center.py'
 (this works only if Python was added to the Windows Path).
 
-#3)Changes to fresh_tomatoes
+##Changes to fresh_tomatoes.py
 
 I made some changes to fresh_tomatoes.py.
 The first one is the number of informations that are displayed under the poster image.
