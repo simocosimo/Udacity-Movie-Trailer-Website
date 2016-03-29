@@ -1,9 +1,9 @@
-#Defining the Movie class
+# Defining the Movie class
 class Movie():
 
     TOTAL_INSTANCES = 0
 
-    #Defining the constructor, called whenever a new instace of the class is created.
+    # Defining the constructor, called whenever a new instace of the class is created.
     def __init__(self, movie_title, movie_storyline, movie_genre, movie_protagonist, movie_director, movie_year, poster_image, trailer_youtube):
         self.title = movie_title
         self.storyline = movie_storyline
